@@ -95,9 +95,7 @@ Interactive-Graphics-Clock/
 │
 ├── interactive-clock.cpp
 ├── README.md
-├── screenshots/
-│   └── clock-preview.png
-└── documentation/
+└── clock-preview.jpg/
 ```
 
 ---
